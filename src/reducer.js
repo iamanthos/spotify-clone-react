@@ -4,8 +4,6 @@ export const initialState = {
     playing: false,
     item: null,
     // token: null,
-    //Remove after developing
-    // token: "BQAenfQZC5OMtVer9p5-_DXd1U_C9OqSPf7lVOJzu3p8fGxWiRgCBV4ocnzh50VKG0mtDRoAYu4hYBQLPv9tRk5jzAnEa_s8iEGPEqZievbKr_ienfGaKlwL21xqYYC_vsCCllys-YV4IET1j-QFVFrnTU5vu9YHffR3xJmhvZZOKnlrR7fN",
 };
 
 //Action -> type, [payload]
